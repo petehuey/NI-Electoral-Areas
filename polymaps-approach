@@ -1,0 +1,4 @@
+Looking at PolyMaps (http://polymaps.org/), there are examples they have generated which closely mirror the sort of thing we want for NI - explicitly, the population and unemployment examples.
+
+Because it uses SVGs to illustrate the info, the maps can be styled with CSS.
+
